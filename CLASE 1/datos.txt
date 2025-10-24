@@ -1,0 +1,11 @@
+nombre edad ciudad
+Ana 28 Madrid
+Luis 45 BuenosAires
+María 32 CiudadDeMéxico
+Carlos 19 Santiago
+Laura 51 Bogotá
+Javier 36 Lima
+Sofía 22 Montevideo
+Diego 60 Quito
+Valentina 29 Caracas
+Miguel 41 Asunción
