@@ -16,6 +16,7 @@ PROC IMPORT DATAFILE="/workspaces/sas/CLASE 1/datos.txt"
 RUN;
 
 DATA total;
+    LENGTH nombre $50 ciudad $40;
     SET ventas ventas_csv;
 RUN;
 
