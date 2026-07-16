@@ -1,0 +1,7 @@
+
+  Obs  nombre  edad  nota
+-----  ------  ----  ----
+    1  Ana       20    15
+    2  Juan      22    18
+    3  Carla     21    17
+

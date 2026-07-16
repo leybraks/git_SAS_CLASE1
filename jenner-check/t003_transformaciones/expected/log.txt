@@ -1,0 +1,31 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260715T062217Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA ventas
+
+NOTE: Processing inline DATALINES (10 lines)
+
+NOTE: Read 10 rows from DATALINES.
+NOTE: Wrote ventas (10 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA ventas_filtradas
+
+
+NOTE: Read 10 rows from ventas.
+NOTE: Wrote ventas_filtradas (3 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=ventas_filtradas
+
+NOTE: PROC PRINT completed: 3 observations printed, 4 variables
+NOTE: PROC SORT data=ventas_filtradas
+
+NOTE: Read 3 rows from ventas_filtradas.
+NOTE: Wrote ordenadas (3 rows, 4 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC PRINT data=ordenadas
+
+NOTE: PROC PRINT completed: 3 observations printed, 4 variables

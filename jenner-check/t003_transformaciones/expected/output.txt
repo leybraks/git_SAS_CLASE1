@@ -1,0 +1,13 @@
+
+  Obs  nombre  ciudad  edad  edad_4_mas
+-----  ------  ------  ----  ----------
+    1  Laura   Lima      51          55
+    2  Javier  Lima      36          40
+    3  Miguel  Lima      41          45
+
+  Obs  nombre  ciudad  edad  edad_4_mas
+-----  ------  ------  ----  ----------
+    1  Laura   Lima      51          55
+    2  Miguel  Lima      41          45
+    3  Javier  Lima      36          40
+

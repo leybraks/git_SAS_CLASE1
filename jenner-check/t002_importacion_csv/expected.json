@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-16T09:14:13Z",
+  "_captured_run_id": "r_a1e46ec027594c7e8c76f3fb43f2479d",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote ventas_csv (10 rows, 3 columns).",
+    "NOTE: PROC PRINT completed: 5 observations printed, 3 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

@@ -1,0 +1,11 @@
+
+  Obs  nombre          ciudad  edad
+-----  ------  --------------  ----
+    1  Ana     Madrid            28
+    2  Luis    BuenosAires       45
+    3  Maria   CiudadDeMexico    32
+    4  Carlos  Santiago          19
+    5  Laura   Lima              51
+
+... 5 more observations (showing 5 of 10)
+

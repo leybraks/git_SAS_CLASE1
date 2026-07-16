@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_extensiones",
+  "source_file": "CLASE 1/extensiones.sas",
+  "source_blob_sha": "786ad2a37429764677fe7d28fd1a44d391a9afd8",
+  "source_commit": "581d2e9a451f9bd242ac3a62d95ca2496d20ba7a",
+  "notes": "The original runs against `ventas_filtradas` (see transformaciones.sas) and exports to an absolute workspace path. The 3-row filtered dataset was seeded inline, the PROC SQL GROUP BY, the %resumen macro (PROC MEANS wrapped in a macro), and PROC EXPORT run unchanged except the OUTFILE path, rewritten from /workspaces/sas/CLASE 1/RESULTADOS.csv to a relative RESULTADOS.csv."
+}
