@@ -1,0 +1,11 @@
+
+  Obs           nombre            ciudad  edad
+-----  ---------------  ----------------  ----
+    1  Ana Garcia       Madrid              28
+    2  Luis Rodriguez   Buenos Aires        45
+    3  Maria Fernandez  Ciudad de Mexico    32
+    4  Carlos Lopez     Santiago            19
+    5  Laura Martinez   Bogota              51
+
+... 5 more observations (showing 5 of 10)
+

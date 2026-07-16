@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_concatenaciones",
+  "source_file": "CLASE 1/concatenaciones.sas",
+  "source_blob_sha": "54489126ddc23f632afc24c01399c12a613bff88",
+  "source_commit": "581d2e9a451f9bd242ac3a62d95ca2496d20ba7a",
+  "notes": "The original PROC IMPORTs datos.csv and datos.txt separately then concatenates them with SET. Both source datasets were seeded inline (5 representative rows each, matching datos.csv/datos.txt), then the SET-based concatenation into `total` and PROC PRINT run unchanged."
+}

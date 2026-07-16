@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-16T09:14:13Z",
+  "_captured_run_id": "r_8fadc6b564e747d29e121fbc787340f0",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC SQL statement used.",
+    "NOTE: PROC MEANS statement used.",
+    "NOTE: Exported 3 rows to RESULTADOS.csv."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

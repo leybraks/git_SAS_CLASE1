@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_transformaciones",
+  "source_file": "CLASE 1/transformaciones.sas",
+  "source_blob_sha": "f7bc5357dcd9b8b2bc2c0f31b71e48e9f89a603b",
+  "source_commit": "581d2e9a451f9bd242ac3a62d95ca2496d20ba7a",
+  "notes": "The original operates on `ventas`, which importacionTXT.sas builds from CLASE 1/datos.txt upstream. The same 10 datos.txt rows were seeded inline via datalines, then the ciudad='Lima' filter, edad_4_mas derived column, and PROC SORT DESCENDING run unchanged. Output matches CLASE 1/RESULTADOS.csv exactly (Laura/Javier/Miguel, edad_4_mas 55/40/45)."
+}

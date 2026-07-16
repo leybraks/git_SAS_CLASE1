@@ -1,0 +1,22 @@
+                                                  The MEANS Procedure
+
+ Variable        N        Mean     Minimum     Maximum
+ -----------------------------------------------------
+ edad            3       42.67       36.00       51.00
+ -----------------------------------------------------
+
+                                                   The FREQ Procedure
+
+                                  Cumulative    Cumulative
+edad    Frequency    Percent     Frequency      Percent
+-------------------------------------------------------------
+36              1     33.33            1        33.33
+41              1     33.33            2        66.67
+51              1     33.33            3       100.00
+
+  Obs  nombre  ciudad    edad  Edad egreso
+-----  ------  ------  ------  -----------
+    1  Laura   Lima     51.00           55
+    2  Javier  Lima     36.00           40
+    3  Miguel  Lima     41.00           45
+

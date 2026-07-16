@@ -1,0 +1,7 @@
+
+  Obs  nombre          ciudad  edad         carrera
+-----  ------  --------------  ----  --------------
+    1  Ana     Madrid            28  ing_industrial
+    2  Luis    BuenosAires       45  ing_mecanica
+    3  Maria   CiudadDeMexico    32  ing_datos
+

@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_estadistica_basica",
+  "source_file": "CLASE 1/EstadisticaBasica.sas",
+  "source_blob_sha": "470f665ee04a5afee52fa777504b74ea527139b3",
+  "source_commit": "581d2e9a451f9bd242ac3a62d95ca2496d20ba7a",
+  "notes": "The original operates on `ventas_filtradas`, the output of transformaciones.sas (the 3 Lima rows with edad_4_mas). Those 3 rows were seeded inline via datalines, then PROC MEANS, PROC FREQ, a FORMAT/LABEL DATA step, and the labeled PROC PRINT run unchanged."
+}

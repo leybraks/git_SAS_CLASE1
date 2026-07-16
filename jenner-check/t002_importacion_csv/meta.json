@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_importacion_csv",
+  "source_file": "CLASE 1/importacionCSV.sas",
+  "source_blob_sha": "a7a18f3950874125ea99ac49db9d8a5028d4c1f7",
+  "source_commit": "581d2e9a451f9bd242ac3a62d95ca2496d20ba7a",
+  "notes": "The original PROC IMPORTs CLASE 1/datos.csv (DBMS=CSV). Since the runner only sends script.sas + autoexec.sas, the same 10 rows from datos.csv were seeded inline via INFILE DATALINES DSD DLM=',' to reproduce identical comma-delimited, header-row semantics, then PROC PRINT(OBS=5) runs unchanged."
+}
